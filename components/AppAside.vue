@@ -1,3 +1,3 @@
 <template>
-
+<h1>お疲れ様です。</h1>
 </template>
