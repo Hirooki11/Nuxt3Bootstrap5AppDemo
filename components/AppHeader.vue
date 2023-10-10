@@ -1,5 +1,5 @@
 <template>
  <header>
- <h1>さよなら槇原</h1>
+ <h1>さよなら</h1>
  </header>
 </template>
