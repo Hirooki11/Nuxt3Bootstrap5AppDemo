@@ -2,14 +2,14 @@
     <aside class="app-aside">
       <div class="p-3">
         <h4>ばり馬</h4>
-        <img src="~/assets/images/" alt="ラーメンの画像">
+        <img src="~/assets/images/barilogo.png" alt="バリウマのロゴ">"
         <bariuma />
         <ul class="list-group">
           <li class="list-group-item">豚骨ラーメン</li>
           <li class="list-group-item">醤油ラーメン</li>
           <li class="list-group-item">味噌ラーメン</li>
           <li class="list-group-item">塩ラーメン</li>
-          <!-- 他のおすすめのラーメンを追加 -->
+         
         </ul>
       </div>
     </aside>
