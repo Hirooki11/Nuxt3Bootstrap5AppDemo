@@ -1,49 +1,52 @@
 <template>
-    <div>
+    <header class="app-header">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <nuxt-link class="navbar-brand" to="/">福元洋貴の選んだラーメン</nuxt-link>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <nuxt-link class="nav-link" to="/">ホーム <span class="sr-only">(現位置)</span></nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link class="nav-link" to="/special-ramen">特製ラーメン</nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link class="nav-link" to="/spicy-ramen">激辛ラーメン</nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link class="nav-link" to="/healthy-ramen">ヘルシーラーメン</nuxt-link>
-            </li>
-          </ul>
+        <div class="container">
+          <nuxt-link class="navbar-brand" to="/">ラーメン紹介サイト</nuxt-link>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <nuxt-link class="nav-link" to="/">ホーム</nuxt-link>
+              </li>
+              <li class="nav-item">
+                <nuxt-link class="nav-link" to="/menu">メニュー</nuxt-link>
+              </li>
+              <li class="nav-item">
+                <nuxt-link class="nav-link" to="/about">お店について</nuxt-link>
+              </li>
+              <li class="nav-item">
+                <nuxt-link class="nav-link" to="/contact">お問い合わせ</nuxt-link>
+              </li>
+            </ul>
+          </div>
         </div>
       </nav>
-      <nuxt />
-    </div>
+    </header>
   </template>
   
   <script>
   export default {
-    name: 'DefaultLayout',
+    name: 'AppHeader',
   };
   </script>
   
-  <style>
-.福元洋貴の選んだラーメン {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  padding: 10rem;
-}
+  <style scoped>
+  /* ここに必要なスタイルを追加します */
+  .app-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* 適切なz-indexを設定 */
+  }
   </style>
