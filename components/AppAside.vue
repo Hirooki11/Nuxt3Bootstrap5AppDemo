@@ -2,6 +2,8 @@
     <aside class="app-aside">
       <div class="p-3">
         <h4>ばり馬</h4>
+        <img src="~/assets/images/" alt="ラーメンの画像">
+        <bariuma />
         <ul class="list-group">
           <li class="list-group-item">豚骨ラーメン</li>
           <li class="list-group-item">醤油ラーメン</li>
