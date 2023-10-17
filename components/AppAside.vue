@@ -5,8 +5,8 @@
         <img src="~assets/barilogo.png" alt="バリウマのロゴ">"
         <bariuma />
         <ul class="list-group">
-          <li class="list-group-item">豚骨ラーメン</li>
-          <li class="list-group-item">醤油ラーメン</li>
+          <li class="list-group-item">ばり馬</li>
+          <li class="list-group-item">ばり濃</li>
           <li class="list-group-item">味噌ラーメン</li>
           <li class="list-group-item">塩ラーメン</li>
          

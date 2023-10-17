@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-6">
             <h5>お問い合わせ先</h5>
-            <p>〒123-4567 住所都道府県市町村</p>
+            <p>〒123-4567 和歌山県岩出市</p>
             <p>電話: 012-3456-7890</p>
             <p>Email: example@example.com</p>
           </div>
