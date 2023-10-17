@@ -2,19 +2,22 @@
   <div>
     <AppHeader />
     <main>
-      <nuxt />
+      <AppAside />
     </main>
     <AppFooter />
+    
   </div>
 </template>
 
 <script>
 import AppHeader from '~/components/AppHeader.vue';
+import AppAside from '~/components/AppAside.vue';
 import AppFooter from '~/components/AppFooter.vue';
 
 export default {
   components: {
     AppHeader,
+    AppAside,
     AppFooter,
   },
 };

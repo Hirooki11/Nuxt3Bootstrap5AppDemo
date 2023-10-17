@@ -26,7 +26,7 @@
                 <nuxt-link class="nav-link" to="/about">お店について</nuxt-link>
               </li>
               <li class="nav-item">
-                <nuxt-link class="nav-link" to="/contact">お問い合わせ</nuxt-link>
+                <nuxt-link to="/contact" class="btn btn-primary">お問い合わせ</nuxt-link>
               </li>
             </ul>
           </div>
@@ -49,4 +49,5 @@
     width: 100%;
     z-index: 1000; /* 適切なz-indexを設定 */
   }
+  
   </style>

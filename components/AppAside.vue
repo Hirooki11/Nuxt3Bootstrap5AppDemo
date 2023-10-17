@@ -1,7 +1,7 @@
 <template>
     <aside class="app-aside">
       <div class="p-3">
-        <h4>おすすめのラーメン</h4>
+        <h4>ばり馬</h4>
         <ul class="list-group">
           <li class="list-group-item">豚骨ラーメン</li>
           <li class="list-group-item">醤油ラーメン</li>
