@@ -1,5 +1,5 @@
 function customFunction() {
-    console.log('カスタムJavaScriptが呼び出された');
-}
-
-export default customFunction;
+    console.log('カスタムJavaScript関数が呼び出されました');
+  }
+  
+  export default customFunction;

@@ -2,7 +2,7 @@
     <aside class="app-aside">
       <div class="p-3">
         <h4>ばり馬</h4>
-        <img src="~/assets/images/barilogo.png" alt="バリウマのロゴ">"
+        <img src="~assets/barilogo.png" alt="バリウマのロゴ">"
         <bariuma />
         <ul class="list-group">
           <li class="list-group-item">豚骨ラーメン</li>
