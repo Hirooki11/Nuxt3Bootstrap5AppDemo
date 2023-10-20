@@ -2,7 +2,9 @@
     <aside class="app-aside">
       <div class="p-3">
         <h4>ばり馬</h4>
-        <img src="/images/barilogo.png" alt="ロゴ">
+        <img src="images/barilogo.png" alt="ロゴ" data-v-89649d91="" style="
+    width: 200px;
+">
         <bariuma />
         <ul class="list-group">
           <li class="list-group-item">ばり馬</li>
