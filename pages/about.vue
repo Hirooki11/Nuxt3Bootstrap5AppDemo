@@ -1,6 +1,6 @@
 <template>
   <div class="about-container">
-    <h1>About Us</h1>
+    <h1>お店について</h1>
     <p>This is the about page of our website. Learn more about our company and our mission.</p>
   </div>
 </template>
