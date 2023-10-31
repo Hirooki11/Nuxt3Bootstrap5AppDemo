@@ -17,16 +17,16 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
-                <nuxt-link class="nav-link" to="/">ホーム</nuxt-link>
+                <NuxtLink class="nav-link" to="/">ホーム</NuxtLink>
               </li>
               <li class="nav-item">
-                <nuxt-link class="nav-link" to="/menu">メニュー</nuxt-link>
+                <NuxtLink class="nav-link" to="/menu">メニュー</NuxtLink>
               </li>
               <li class="nav-item">
-                <nuxt-link class="nav-link" to="/about">お店について</nuxt-link>
+                <NuxtLink class="nav-link" to="/about">お店について</NuxtLink>
               </li>
               <li class="nav-item">
-                <nuxt-link to="/contact" class="btn btn-primary">お問い合わせ</nuxt-link>
+                <NuxtLink to="/contact" class="btn btn-primary">お問い合わせ</NuxtLink>
               </li>
             </ul>
           </div>
