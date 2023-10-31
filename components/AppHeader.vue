@@ -20,10 +20,10 @@
                 <NuxtLink class="nav-link" to="/home">ホーム</NuxtLink>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/menu">メニュー</a>
+                <NuxtLink class="nav-link" to="/menu">メニュー</NuxtLink>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/about">お店について</a>
+                <NuxtLink class="nav-link" to="/about">お店について</NuxtLink>
               </li>
               <li class="nav-item">
                 <NuxtLink to="/contact" class="btn btn-primary">お問い合わせ</NuxtLink>

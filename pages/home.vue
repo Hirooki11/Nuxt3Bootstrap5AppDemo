@@ -1,5 +1,5 @@
 <template>
-  <div class="contact-container">
+  <div class="home-container">
     <h2>バリウマ！ラーメン屋</h2>
       <p>豚の背骨・鶏ガラ・鶏もみじ、香味野菜などいくつもの
         食材を大釜でコトコトじっくり煮込み
