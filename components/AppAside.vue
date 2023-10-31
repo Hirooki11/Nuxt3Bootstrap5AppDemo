@@ -5,7 +5,7 @@
         <img src="images/barilogo.png" alt="ロゴ" data-v-89649d91="" style="
     width: 200px;
 ">
-        <bariuma />
+        <Bariuma />
         <ul class="list-group">
           <li class="list-group-item">ばり馬</li>
           <li class="list-group-item">ばり濃</li>

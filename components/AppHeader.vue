@@ -17,13 +17,13 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item">
-                <NuxtLink class="nav-link" to="/">ホーム</NuxtLink>
+                <NuxtLink class="nav-link" to="/home">ホーム</NuxtLink>
               </li>
               <li class="nav-item">
-                <NuxtLink class="nav-link" to="/menu">メニュー</NuxtLink>
+                <a class="nav-link" href="/menu">メニュー</a>
               </li>
               <li class="nav-item">
-                <NuxtLink class="nav-link" to="/about">お店について</NuxtLink>
+                <a class="nav-link" href="/about">お店について</a>
               </li>
               <li class="nav-item">
                 <NuxtLink to="/contact" class="btn btn-primary">お問い合わせ</NuxtLink>
@@ -36,9 +36,7 @@
   </template>
   
   <script>
-  export default {
-    name: 'AppHeader',
-  };
+
   </script>
   
   <style scoped>

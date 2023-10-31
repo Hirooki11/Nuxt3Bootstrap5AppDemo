@@ -1,6 +1,6 @@
 <template>
-    <div class="bariuma-container">
-      <h2>バリウマ！ラーメン屋</h2>
+  <div class="contact-container">
+    <h2>バリウマ！ラーメン屋</h2>
       <p>豚の背骨・鶏ガラ・鶏もみじ、香味野菜などいくつもの
         食材を大釜でコトコトじっくり煮込み
         職人がひと時も休まず「アク」を取り続け、
@@ -25,9 +25,6 @@
   </template>
   
   <script>
-  export default {
-    name: 'Bariuma',
-  };
   </script>
   
   <style scoped>

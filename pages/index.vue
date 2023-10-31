@@ -8,12 +8,5 @@
 </template>
 
 <script>
-import customFunction from '@/assets/custom.js';
 
-export default {
-  mounted() {
-    customFunction();
-
-  }
-}
 </script>
