@@ -9,7 +9,7 @@
           </div>
         </div>
         <hr>
-        <p class="text-muted">© 2023 ラーメン紹介サイト</p>
+        <p class="text-muted">© 2023 滋慶学園グループ</p>
       </div>
     </footer>
   </template>

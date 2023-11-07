@@ -20,7 +20,7 @@
                 <NuxtLink class="nav-link" to="/home">ホーム</NuxtLink>
               </li>
               <li class="nav-item">
-                <NuxtLink class="nav-link" to="/menu">専攻一覧</NuxtLink>
+                <NuxtLink class="nav-link" to="/major">専攻一覧</NuxtLink>
               </li>
               <li class="nav-item">
                 <NuxtLink class="nav-link" to="/about">学校について</NuxtLink>
