@@ -1,8 +1,6 @@
 <template>
     <aside class="app-aside">
       <div class="p-3">
-        <h4>ばり馬</h4>
-        <img src="images/barilogo.png" alt="ロゴ" data-v-89649d91="" style="
     width: 200px;
 ">
         <ul class="list-group">
