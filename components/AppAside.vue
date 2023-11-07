@@ -3,13 +3,6 @@
       <div class="p-3">
     width: 200px;
 ">
-        <ul class="list-group">
-          <li class="list-group-item">ばり馬</li>
-          <li class="list-group-item">ばり濃</li>
-          <li class="list-group-item">味噌ラーメン</li>
-          <li class="list-group-item">塩ラーメン</li>
-         
-        </ul>
       </div>
     </aside>
   </template>
