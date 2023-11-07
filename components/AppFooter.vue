@@ -3,12 +3,6 @@
       <div class="container">
         <div class="row">
           <div class="col-6">
-            <h5>お問い合わせ先</h5>
-            <p>〒123-4567 和歌山県岩出市</p>
-            <p>電話: 012-3456-7890</p>
-            <p>Email: example@example.com</p>
-          </div>
-          <div class="col-6">
             <h5>フォローする</h5>
             <p>Twitter: <a href="#">@ramen_example</a></p>
             <p>Instagram: <a href="#">@ramen_example</a></p>

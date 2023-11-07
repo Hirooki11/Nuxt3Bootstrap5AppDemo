@@ -4,7 +4,7 @@
     <p>ご質問やご意見がありましたら、以下のフォームからご連絡ください。</p>
     <form>
       <div>
-        <label for="name">福元 洋貴:</label>
+        <label for="name">お名前:</label>
         <input type="text" id="name" name="name" required>
       </div>
       <div>
@@ -18,8 +18,9 @@
       <button type="submit">送信</button>
     </form>
     <p>もしくは、以下の連絡先までご連絡ください。</p>
-    <p>電話番号: 012-3456-7890</p>
-    <p>メールアドレス: info@example.com</p>
+    <p>福元洋貴</p>
+    <p>電話番号: 075-366-3168</p>
+    <p>メールアドレス: info@kyoto-tech.ac.jp</p>
   </div>
 </template>
 
