@@ -1,8 +1,10 @@
 <template>
     <header class="app-header">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-          <nuxt-link class="navbar-brand" to="/">ラーメン紹介サイト</nuxt-link>
+        <div class="container  d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <img src="images/エントランス.png" alt="エントランス" class="img-fluid" style="max-width: 50%;" />">
+          <nuxt-link class="navbar-brand" to="/">京都デザイン＆テクノロジー専門学校</nuxt-link>
+
           <button
             class="navbar-toggler"
             type="button"
