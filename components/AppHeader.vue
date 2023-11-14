@@ -20,7 +20,7 @@
               <nuxt-link class="nav-link" to="/menu">メニュー</nuxt-link>
             </li>
             <li class="nav-item">
-              <nuxt-link class="nav-link" to="/about">お店について</nuxt-link>
+              <nuxt-link class="nav-link" to="/recommendation">おすすめ！</nuxt-link>
             </li>
             <li class="nav-item">
               <nuxt-link class="nav-link" to="/contact">お問い合わせ</nuxt-link>

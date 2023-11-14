@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- ヘッダー -->
     <AppHeader />
 
     <!-- メインコンテンツ -->
@@ -9,8 +8,7 @@
       <!-- Nuxtのページコンポーネントが表示されるスロット -->
       <nuxt />
     </main>
-
-    <!-- フッター -->
+    
     <AppFooter />
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
-        <p>専攻はこちら</p>
+    <div class="menu-container">
+        <p>メニューはこちら</p>
     </div>
 </template>

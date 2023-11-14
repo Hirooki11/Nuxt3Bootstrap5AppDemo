@@ -1,5 +1,5 @@
 <template>
-  <div class="about-container">
+  <div class="recommendation-container">
     <h1>お店について</h1>
     <p>This is the about page of our website. Learn more about our company and our mission.</p>
   </div>
