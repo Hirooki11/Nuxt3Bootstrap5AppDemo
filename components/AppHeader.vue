@@ -1,40 +1,52 @@
 <template>
   <header class="app-header">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container d-flex justify-content-between align-items-center" style="height: 100vh;">
-
-
-        <button class="navbar-toggler" :type="'button'" data-toggle="collapse" data-target="#navbarNav"
+    <div class="container">
+      <!-- ヘッダーのコンテンツ -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <!-- トグルボタン -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto">
+
+        <!-- ナビゲーションリスト -->
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
             <!-- ホーム -->
             <li class="nav-item">
               <nuxt-link class="nav-link" to="/home">ホーム</nuxt-link>
             </li>
-            <!-- 専攻一覧 -->
             <li class="nav-item">
-              <nuxt-link class="nav-link" to="/major">専攻一覧</nuxt-link>
+              <nuxt-link class="nav-link" to="/menu">メニュー</nuxt-link>
             </li>
-            <!-- 学校について -->
             <li class="nav-item">
-              <nuxt-link class="nav-link" to="/about">学校について</nuxt-link>
+              <nuxt-link class="nav-link" to="/about">お店について</nuxt-link>
             </li>
-            <!-- お問い合わせ -->
             <li class="nav-item">
-              <nuxt-link to="/contact" class="btn btn-primary">お問い合わせ</nuxt-link>
+              <nuxt-link class="nav-link" to="/contact">お問い合わせ</nuxt-link>
             </li>
+            <!-- 他のナビゲーションアイテムを追加 -->
           </ul>
         </div>
-      </div>
-    </nav>
+      </nav>
+    </div>
   </header>
 </template>
 
 <script>
-
+export default {
+  // コンポーネントのロジックやプロパティなど
+};
 </script>
 
-<style></style>
+<style scoped>
+.app-header {
+  background-color: #f8f9fa; /* お好みの背景色 */
+  padding: 15px 0; /* 上下のパディング */
+}
+
+.container {
+  max-width: 1140px; /* お好みの最大幅 */
+  margin: 0 auto; /* 中央寄せ */
+}
+</style>

@@ -1,6 +1,7 @@
 <template>
   <aside class="app-aside">
     <div class="p-3">
+    <home />
     </div>
   </aside>
 </template>

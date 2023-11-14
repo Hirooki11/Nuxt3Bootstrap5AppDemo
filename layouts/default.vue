@@ -1,16 +1,34 @@
 <template>
   <div>
+    <!-- ヘッダー -->
     <AppHeader />
-    <main>
-      <AppAside />
-      <slot />
-    </main>
-    <AppFooter />
 
+    <!-- メインコンテンツ -->
+    <main>
+      <slot />
+      <!-- Nuxtのページコンポーネントが表示されるスロット -->
+      <nuxt />
+    </main>
+
+    <!-- フッター -->
+    <AppFooter />
   </div>
 </template>
 
 <script>
+
+
 </script>
 
-<style></style>
+<style scoped>
+/* お好みのスタイリングを追加 */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 20px;
+}
+</style>
