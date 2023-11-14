@@ -3,15 +3,14 @@
     <AppHeader />
     <main>
       <AppAside />
-      <slot/>
+      <slot />
     </main>
     <AppFooter />
-    
+
   </div>
 </template>
 
 <script>
 </script>
 
-<style>
-</style>
+<style></style>
