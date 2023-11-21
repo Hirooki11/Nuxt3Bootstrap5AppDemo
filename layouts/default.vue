@@ -6,7 +6,6 @@
     <main>
       <slot />
       <!-- Nuxtのページコンポーネントが表示されるスロット -->
-      <nuxt />
     </main>
     
     <AppFooter />
