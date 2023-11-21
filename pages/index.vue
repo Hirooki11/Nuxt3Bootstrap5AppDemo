@@ -1,7 +1,6 @@
 <template>
   <div class="container">
-    <Appalert>
-    </Appalert>
+  <home />
   </div>
 </template>
 
