@@ -1,5 +1,6 @@
 <template>
     <div class="menu-container">
-        <p>メニューはこちら</p>
+        <h1>メニューはこちら</h1>
+        <Bariuma />
     </div>
 </template>

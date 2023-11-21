@@ -1,24 +1,18 @@
 <template>
   <div>
     <AppHeader />
-
-    <!-- メインコンテンツ -->
     <main>
       <slot />
-      <!-- Nuxtのページコンポーネントが表示されるスロット -->
     </main>
-    
     <AppFooter />
   </div>
 </template>
 
 <script>
-
-
 </script>
 
 <style scoped>
-/* お好みのスタイリングを追加 */
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
@@ -28,4 +22,5 @@ body {
 main {
   padding: 20px;
 }
+
 </style>
