@@ -17,7 +17,7 @@
               <nuxt-link class="nav-link" to="/home">ホーム</nuxt-link>
             </li>
             <li class="nav-item">
-              <nuxt-link class="nav-link" to="/menu">メニュー</nuxt-link>
+              <nuxt-link class="nav-link" to="/introduction">紹介</nuxt-link>
             </li>
             <li class="nav-item">
               <nuxt-link class="nav-link" to="/recommendation">おすすめ！</nuxt-link>

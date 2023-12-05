@@ -1,5 +1,5 @@
 <template>
-    <div class="menu-container">
+    <div class="introduction-container">
         <h1>メニューはこちら</h1>
         <Bariuma />
     </div>
