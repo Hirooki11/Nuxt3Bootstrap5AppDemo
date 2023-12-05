@@ -1,7 +1,7 @@
 <template>
   <div class="recommendation-container">
-    <h1>私のおすすめは"ばり馬"です</h1>
-    <p>これは僕の地元'和歌山県'にあるお店です</p>
+    <h1>私のおすすめは<span class="text-danger strong">ばり馬</span>です</h1>
+    <p>これは僕の地元<strong>和歌山県</strong>にあるお店です</p>
     <Bariuma />
   </div>
 </template>
