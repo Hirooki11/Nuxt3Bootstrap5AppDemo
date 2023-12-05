@@ -29,11 +29,3 @@ export default {
   name: 'Contact',
 };
 </script>
-
-<style scoped>
-.contact-container {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 20px;
-}
-</style>
