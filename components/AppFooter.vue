@@ -1,6 +1,6 @@
 <template>
   <footer class="app-footer mt-auto py-3 bg-light">
-    <div class="container">
+    <div class="Footer-container">
       <div class="row">
         <div class="col-6">
           <h5>フォローする</h5>

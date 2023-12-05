@@ -1,7 +1,8 @@
 <template>
   <div class="recommendation-container">
-    <h1>お店について</h1>
-    <p>This is the about page of our website. Learn more about our company and our mission.</p>
+    <h1>私のおすすめは"ばり馬"です</h1>
+    <p>これは僕の地元'和歌山県'にあるお店です</p>
+    <Bariuma />
   </div>
 </template>
 
@@ -12,7 +13,7 @@ export default {
 </script>
 
 <style scoped>
-.about-container {
+.recommendation-container {
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;

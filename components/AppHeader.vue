@@ -1,6 +1,6 @@
 <template>
   <header class="app-header">
-    <div class="container">
+    <div class="Header-container">
       <!-- ヘッダーのコンテンツ -->
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <!-- トグルボタン -->
@@ -45,7 +45,7 @@ export default {
   padding: 15px 0; /* 上下のパディング */
 }
 
-.container {
+.Header-container {
   max-width: 1140px; /* お好みの最大幅 */
   margin: 0 auto; /* 中央寄せ */
 }
