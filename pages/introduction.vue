@@ -16,5 +16,22 @@
             <div class="col-md-6">
                 <Asahi />
             </div>
+        <div class="row">
+            <div class="col-md-6">
+                <Tenka />
+            </div>
+            <div class="col-md-6">
+                <Ippudo />
+            </div>
+        <div class="row">
+            <div class="col-md-6">
+                <Jinrai />
+            </div>
+            <div class="col-md-6">
+                <Kakumenya />
+            </div>
+        </div>
+
+        </div>
     </div>
 </div></template>
