@@ -1,5 +1,6 @@
 <template>
     <div class="Kairikiya-container">
-        <h1>魁力屋</h1>
+        <h2>魁力屋</h2>
+        <img src="images/kairikiya.jpeg" alt="魁力屋" style="width: 400px; height: auto;">
     </div>
 </template>
