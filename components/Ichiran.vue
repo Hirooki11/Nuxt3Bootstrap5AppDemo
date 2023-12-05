@@ -1,5 +1,5 @@
 <template>
     <div class="Ichiran-container">
-        <p>一蘭</p>
+       <h1>一蘭</h1>
     </div>
 </template>
