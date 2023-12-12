@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-7">
                 <h2>ずんどう屋</h2>
-                <img src="images/Zundo.jpeg" alt="ずんどう屋" style="width: 700px; height: auto;">
+                <img src="images/Zundo.png" alt="ずんどう屋" style="width: 700px; height: auto;">
             </div>
             <div class="col-md-5">
                 <h3>ずんどう屋　四条烏丸店</h3>
