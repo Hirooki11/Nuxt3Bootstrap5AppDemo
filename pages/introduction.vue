@@ -18,7 +18,7 @@
             
                 <Kakumenya />
             
-        
+                <Zundo />
     
 </div>
 </template>
