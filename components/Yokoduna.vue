@@ -1,9 +1,9 @@
 <template>
-    <div class="Yokuzuna-container">
+    <div class="Yokoduna-container">
         <div class="row">
             <div class="col-md-7">
                 <h2>ラーメン横綱</h2>
-                <img src="images/yokuduna.jpeg" alt="横綱" style="width: 700px; height: auto;">
+                <img src="images/yokoduna.jpeg" alt="横綱" style="width: 700px; height: auto;">
             </div>
             <div class="col-md-5">
                 <h3>ラーメン横綱 五条店</h3>
