@@ -1,5 +1,5 @@
 <template>
-    <div class="introduction-container">
+    <div>
         <h1>私が今までに食べてきたラーメンを紹介します</h1>
         
                 <Ichiran />

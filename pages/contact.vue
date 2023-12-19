@@ -1,5 +1,5 @@
 <template>
-  <div class="contact-container">
+  <div>
     <h1>お問い合わせ</h1>
     <p>ご質問やご意見がありましたら、以下のフォームからご連絡ください。</p>
     <form>
