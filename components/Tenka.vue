@@ -6,7 +6,7 @@
                 <img src="images/tenkaippin.jpeg" alt="天下一品" style="width: 700px; height: auto;">
             </div>
             <div class="col-md-5">
-                <h3>西院店　屋台</h3>
+                <h3>天下一品 西院店 屋台</h3>
                 <h4>〒615-0014<br>
                     京都府京都市右京区西院巽町２－２<br>
                     075-325-0266<br>
