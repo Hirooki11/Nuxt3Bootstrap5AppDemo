@@ -19,6 +19,7 @@
                 <Kakumenya />
             
                 <Zundo />
-    
+
+                <Yokoduna />
 </div>
 </template>
