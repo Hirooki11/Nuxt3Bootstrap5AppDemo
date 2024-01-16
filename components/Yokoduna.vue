@@ -1,5 +1,5 @@
 <template>
-    <div class="Yokoduna-container">
+    <div class="Yokoduna-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>ラーメン横綱</h2>

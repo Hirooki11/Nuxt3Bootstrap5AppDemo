@@ -1,5 +1,5 @@
 <template>
-    <div class="Kakumenya-container">
+    <div class="Kakumenya-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>革麺家</h2>

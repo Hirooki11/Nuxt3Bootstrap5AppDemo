@@ -1,5 +1,5 @@
 <template>
-    <div class="Ichiran-container">
+    <div class="Ichiran-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>一蘭</h2>

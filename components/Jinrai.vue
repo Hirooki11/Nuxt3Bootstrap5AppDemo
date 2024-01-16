@@ -1,5 +1,5 @@
 <template>
-    <div class="Jinrai-container">
+    <div class="Jinrai-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>神来</h2>

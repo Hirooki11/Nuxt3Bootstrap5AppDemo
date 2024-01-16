@@ -1,5 +1,5 @@
 <template>
-    <div class="Ippudo-container">
+    <div class="Ippudo-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>一風堂</h2>

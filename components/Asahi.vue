@@ -1,5 +1,5 @@
 <template>
-    <div class="Asahi container">
+    <div class="Asahi container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>本家第一旭本店</h2>

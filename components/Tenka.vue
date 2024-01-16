@@ -1,5 +1,5 @@
 <template>
-    <div class="Tenka-container">
+    <div class="Tenka-container" style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>天下一品</h2>
