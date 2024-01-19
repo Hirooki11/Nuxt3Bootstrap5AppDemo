@@ -41,12 +41,15 @@ export default {
 
 <style scoped>
 .app-header {
-  background-color: #f8f9fa; /* お好みの背景色 */
-  padding: 15px 0; /* 上下のパディング */
+  background-color: #f8f9fa;
+  /* お好みの背景色 */
+  padding: 15px 0;
+  /* 上下のパディング */
 }
 
 .Header-container {
-  max-width: 1140px; /* お好みの最大幅 */
-  margin: 0 auto; /* 中央寄せ */
-}
-</style>
+  max-width: 1140px;
+  /* お好みの最大幅 */
+  margin: 0 auto;
+  /* 中央寄せ */
+}</style>
