@@ -6,14 +6,7 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'About',
-};
-
-
-</script>
-
 <script setup lang="ts">
 const bariuma = useBariuma()
 </script>
+
