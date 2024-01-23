@@ -11,5 +11,12 @@ export const useBariuma = () => useState('Bariuma', () => {
             { text: "席数: 44席" },
 
         ],
+        info: [
+            { text: "ばり馬 和歌山岩出店" },
+            { text: "〒649-6231" },
+            { text: "和歌山県岩出市川尻17-8" },
+            { text: "0736-69-5850" },
+            { text: "11:00～24:00(LO.23:30)" },
+        ]
     }
 })
