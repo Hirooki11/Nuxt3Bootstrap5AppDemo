@@ -1,5 +1,5 @@
 <template>
-  <div style="font-size: 20px;">
+  <div>
     <h1>{{ bariuma.title }}</h1>
     <h4>{{ bariuma.description }}</h4>
     <Bariuma />
