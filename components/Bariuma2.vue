@@ -6,6 +6,7 @@
                 <img src="images/bariuma2.jpeg" alt="ばり馬" style="width: 700px; height: auto;">
             </div>
             <div class="col-md-5">
+                <h3>{{ bariuma.store }}</h4>
                 <div v-for="ba2 in bariuma.info">
                     {{ ba2.text }}
                 </div>
