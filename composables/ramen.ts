@@ -8,6 +8,17 @@ export const useRamen = () => useState('Ramen', () => {
             { text: "600～25:00" },
             { text: "席数: 44席" },
         ],
+
+        Iptitle: "一風堂",
+        Iptitle2: "一風堂 京都ポルタ店",
+        Ipadress: [
+            { text: "〒600-8216" },
+            { text: "京都府 京都市 下京区 烏丸通塩小路下る東塩小路町902" },
+            { text: "京都ポルタ 「東エリア」内" },
+            { text: "075-708-5300" },
+            { text: "11:00 ~ 22:00" },
+        ],
+        
         Ictitle: "一蘭",
         Ictitle2: "一蘭 京都烏丸店",
         Icadress: [
