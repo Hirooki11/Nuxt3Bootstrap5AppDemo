@@ -1,4 +1,4 @@
 export const useRamen = () => useState('Ramen', () => {
-    return { 
+    return {
         Atitle: "本家第一旭本店",
-        
+    }})
