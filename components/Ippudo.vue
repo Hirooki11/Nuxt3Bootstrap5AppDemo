@@ -7,7 +7,9 @@
             </div>
             <div class="col-md-5">
                 <h3>{{ ramen.Iptitle2 }}</h3>
-                <p>{{ ramen.Ipadress }}</p>
+                <div v-for="Ip in ramen.Ipadress">
+                    <p>{{ Ip.text }}</p>
+                </div>
             </div>
         </div>
     </div>
