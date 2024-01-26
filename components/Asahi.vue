@@ -8,7 +8,7 @@
             <div class="col-md-5">
                 <h3>{{ ramen.Atitle }}</h3>
                 <div v-for="As in ramen.Aadress">
-                    {{ As.text }}
+                    <p>{{ As.text }}</p>
                 </div>
             </div>
         </div>
