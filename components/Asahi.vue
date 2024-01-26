@@ -15,3 +15,6 @@
         </div>
     </div>
 </template>
+<script setup lang="ts">
+const ramen = useRamen()
+</script>
