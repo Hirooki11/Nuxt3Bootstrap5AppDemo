@@ -7,10 +7,9 @@
             </div>
             <div class="col-md-5">
                 <h3>{{ ramen.Atitle }}</h3>
-                <p>〒600-8213</p>
-                <p>京都府京都市下京区東塩小路向畑町845</p>
-                <p>075-351-6321</p>
-                <p>6:00～25:00</p>
+                <div v-for="As in ramen.Aadress">
+                    {{ As.text }}
+                </div>
             </div>
         </div>
     </div>

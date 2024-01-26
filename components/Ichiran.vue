@@ -7,10 +7,9 @@
             </div>
             <div class="col-md-5">
                 <h3>{{ ramen.Ictitle2 }}</h3>
-                <p>〒600-8006</p>
-                <p>京都府京都市下京区立売中之町102-3 ミューズ389京都ビル2F</p>
-                <p>075-211-7755</p>
-                <p>10:00～22:00</p>
+                <div v-for="Ic in ramen.Icadress">
+                    {{ Ic.text }}
+                </div>
             </div>
         </div>
     </div>
