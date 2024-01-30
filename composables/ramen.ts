@@ -40,14 +40,13 @@ export const useRamen = () => useState('Ramen', () => {
             { text: "【日曜日】<br>11:00〜24:00（L.O.23:30）"},
         ],
 
-        Kititle: "",
-        Kititle2: "",
+        Kititle: "魁力屋",
+        Kititle2: "京都北白川ラーメン魁力屋 丹波口店",
         Kiadress: [
-            { text: "" },
-            { text: "" },
-            { text: "" },
-            { text: "" },
-            { text: "" },
+            { text: "〒600-8812" },
+            { text: "京都府京都市下京区中堂寺北町15-1" },
+            { text: "075-874-4499" },
+            { text: "11:00-24:00(ラストオーダー23:45)" },
         ]
     }
 }
