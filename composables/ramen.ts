@@ -38,6 +38,16 @@ export const useRamen = () => useState('Ramen', () => {
             { text: "【金曜日】<br>11:30〜24:30（L.O.24:00）"},
             { text: "【土曜日】<br>11:00〜24:30（L.O.24:00）"},
             { text: "【日曜日】<br>11:00〜24:00（L.O.23:30）"},
+        ],
+
+        Kititle: "",
+        Kititle2: "",
+        Kiadress: [
+            { text: "" },
+            { text: "" },
+            { text: "" },
+            { text: "" },
+            { text: "" },
         ]
     }
 }
