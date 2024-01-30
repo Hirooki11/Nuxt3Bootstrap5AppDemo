@@ -6,6 +6,7 @@
                 <img src="images/jinrai.jpeg" alt="神来" style="width: 700px; height: auto;">
             </div>
             <div class="col-md-5">
+                <h3>{{ ramen.Jtitle2 }}</h3>
                 <div v-for="Ji in ramen.Jadress">
                     <p>{{ Ji.text }}</p>
                 </div>
