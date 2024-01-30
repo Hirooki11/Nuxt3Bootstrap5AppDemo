@@ -10,7 +10,7 @@
                 <div v-for="ba2 in bariuma.info">
                     {{ ba2.text }}
                 </div>
-            
+
             </div>
         </div>
     </div>
