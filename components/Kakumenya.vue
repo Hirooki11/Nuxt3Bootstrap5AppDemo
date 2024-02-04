@@ -15,3 +15,7 @@
         </div>
     </div>
 </template>
+
+<script setup lang="ts">
+const bariuma = useBariuma()
+</script>
