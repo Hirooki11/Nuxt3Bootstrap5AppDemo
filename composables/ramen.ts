@@ -56,6 +56,15 @@ export const useRamen = () => useState('Ramen', () => {
             { text: "和歌山県岩出市西野211-1 1F" },
             { text: "0736-67-7030" },
             { text: "11:00～24:30(L.O.24:00)" },
+        ],
+
+        Tntitle: "天下一品",
+        Tntitle2: "",
+        Tnadress: [
+            { text: "" },
+            { text: "" },
+            { text: "" },
+            { text: "" },
         ]
     }
 }
