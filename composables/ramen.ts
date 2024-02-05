@@ -59,12 +59,14 @@ export const useRamen = () => useState('Ramen', () => {
         ],
 
         Tntitle: "天下一品",
-        Tntitle2: "",
+        Tntitle2: "天下一品 西院店 屋台",
         Tnadress: [
-            { text: "" },
-            { text: "" },
-            { text: "" },
-            { text: "" },
+            { text: "〒615-0014" },
+            { text: "京都府京都市右京区西院巽町２－２" },
+            { text: "075-325-0266" },
+            { text: "11:00～14:30/17:00～翌1:00" },
+            { text: "（土曜 11:00～翌1:00 / 日曜・祝日 11:00～22:00）" },
+            { text: "（OS 全日閉店15分前）"}
         ]
     }
 }
