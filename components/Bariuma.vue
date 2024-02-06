@@ -4,7 +4,7 @@
             <div class="col-md-6 mb-5">
                 <img src="images/bariuma_f.jpeg" alt="外観" style="width: 700px; height: auto;">
                 <div v-for="ba in bariuma.adress">
-                    {{ ba.text }}
+                    <p>{{ ba.text }}</p>
                 </div>
             </div>
             <div class="col-md-6">
