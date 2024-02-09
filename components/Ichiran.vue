@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-7">
                 <h2>{{ ramen.Ictitle }}</h2>
-                <img src="images/ichiran.jpeg" alt="一蘭" style="width: 700px; height: auto;">
+                <img src="images/ichiran.jpeg" class="img-thumbnail" alt="一蘭">
             </div>
             <div class="col-md-5">
                 <h3>{{ ramen.Ictitle2 }}</h3>

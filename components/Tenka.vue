@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-7">
                 <h2>{{ ramen.Tntitle }}</h2>
-                <img src="images/tenkaippin.jpeg" alt="天下一品" style="width: 700px; height: auto;">
+                <img src="images/tenkaippin.jpeg" class="img-thumbnail" alt="天下一品">
             </div>
             <div class="col-md-5">
                 <h3>{{ ramen.Tntitle2 }}</h3>

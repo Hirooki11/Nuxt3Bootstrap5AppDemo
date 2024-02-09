@@ -5,10 +5,10 @@
     <div class="barikoku">
       <div class="row">
         <div class="col-md-6">
-          <img src="images/bariuma1.jpg" alt="ラーメン" style="width:500px; height: auto;">
+          <img src="images/bariuma1.jpg" class="img-thumbnail" alt="ラーメン">
         </div>
         <div class="col-md-6">
-          <img src="images/ichiran_s.png" alt="一蘭" style="width:500px; height: auto;">
+          <img src="images/ichiran_s.png" class="img-thumbnail" alt="一蘭">
         </div>
       </div>
     </div>
