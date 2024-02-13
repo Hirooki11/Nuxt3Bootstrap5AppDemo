@@ -1,5 +1,5 @@
 <template>
-    <div class="Bariuma-container mb-5">
+    <div>
         <div class="row">
             <div class="col-md-6 mb-5">
                 <img src="images/bariuma_f.jpeg" class="img-thumbnail" alt="外観">

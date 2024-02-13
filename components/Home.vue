@@ -1,5 +1,5 @@
 <template>
-  <div class="home-container">
+  <div>
 
     <h2>この記事では<span class="text-danger fw-bold">ラーメン</span>が大好きな私が今まで食べてきたラーメンを紹介しようと思います</h2>
     <div class="barikoku">

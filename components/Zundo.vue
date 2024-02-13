@@ -1,5 +1,5 @@
 <template>
-    <div class="Zundo-container" style="font-size: 20px;">
+    <div style="font-size: 20px;">
         <div class="row">
             <div class="col-md-7">
                 <h2>{{ ramen.Zntitle }}</h2>
